@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mohit.kvs1@gmail.com**
 
-- 📄 Know about my experiences from my (Resume)[https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing](https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing](https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a pretty good coder :)**
 
