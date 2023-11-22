@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Katta</h1>
 <h3 align="center">Just another Data Science Graduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitkatta01" alt="mohitkatta01" /></a> </p>
 
-- 🔭 I’m currently Researching on **Social Media Sentiment Analysis**
+- 🔭 I’m currently Researching on **Twitter (X) Sentiment Analysis of Dental Data**
 
 - 🌱 I’m currently learning **Big Data Analytics**
 
