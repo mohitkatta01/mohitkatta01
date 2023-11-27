@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohit-katta](https://medium.com/@mohit-katta)
 
-- 💬 Ask me about **PySpark, AWS, GCP, Python and R**
+- 💬 Ask me about **Kafka, AWS, GCP, Python and R**
 
 - 📫 How to reach me **mohit.kvs1@gmail.com**
 
