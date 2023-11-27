@@ -2,15 +2,15 @@
 <h3 align="center">Just another Data Science Graduate</h3>
 
 
-- 🔭 I’m currently Researching on **Twitter (X) Sentiment Analysis of Dental Data**
+- 🔭 I’m currently Researching on **Trends in American's beliefs on Fluoride and Vaccines**
 
-- 🌱 I’m currently learning **Big Data Analytics**
+- 🌱 I’m currently learning **Big Data Technology stack**
 
-- 👯 I’m looking to collaborate on **any NLP project; Especially LLMs**
+- 👯 I’m looking to collaborate on **NLP project; Especially LLMs or Sentiment Analysis**
 
 - 🤝 I’m looking for help with **any Data Analytics/Science project**
 
-- 👨‍💻 All of my projects are available at [website_under_construction](website_under_construction)
+- 👨‍💻 All of my projects are available at [website_under_construction](https://mohitkatta.me)
 
 - 📝 I regularly write articles on [https://medium.com/@mohit-katta](https://medium.com/@mohit-katta)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing](https://drive.google.com/file/d/11QMCcPtHfdu3jEe58qmcagJyiyxv6FBZ/view?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **I think I am a pretty good coder :)**
+- ⚡ Fun fact **I love long drives :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
