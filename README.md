@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **any Data Analytics/Science project**
 
-- 👨‍💻 All of my projects are available at [website_under_construction](https://mohitkatta.me)
+- 👨‍💻 All of my projects are available at [https://mohitkatta.me](https://mohitkatta.me)
 
 - 📝 I regularly write articles on [https://medium.com/@mohit-katta](https://medium.com/@mohit-katta)
 
