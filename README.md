@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/mohitkatta01?label=Follow&style=social)](https://github.com/mohitkatta01)
 
 - 🎓 Data Science graduate from Boston University, specializing in Natural Language Processing
-- 🤔 I’m currently researching with Boston University's Dental School in understanding Trends of American's beliefs on Fluoride and Vaccination.
+- 🤔 Researched with Boston University's Dental School in understanding Trends of American's beliefs on Fluoride and Vaccination.
 - 👯 I’m looking to collaborate on NLP project; Especially LLMs or Sentiment Analysis
 - 📫 How to reach me: mohit.kvs1@gmail.com
 
